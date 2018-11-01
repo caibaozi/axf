@@ -1,67 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d683034-ae0f-4559-9987-0b1b6550debe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AXF.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1f783982-2fe3-4b7d-8524-f531b3cce383.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AXF/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AXF/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AXF/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AXF/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/css/swiper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/img/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/img/cart1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/img/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/img/home1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/img/market.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/img/market1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/img/mine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/img/mine1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/js/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/base/js/swiper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/cart/css/cart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/home/js/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/market/css/market.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/mine/css/mine.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/cart/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/cart/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/market/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/market/market.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/mine/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/mine/mine.html" afterDir="false" />
-    </list>
+    <list default="true" id="7d683034-ae0f-4559-9987-0b1b6550debe" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
